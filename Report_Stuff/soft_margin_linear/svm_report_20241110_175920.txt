@@ -1,0 +1,7 @@
+Number of support vectors: 10004
+Training Accuracy: 0.8818472610955618
+Test Accuracy: 0.876875
+Training F1-Score: 0.7837541163556531
+Test F1-Score: 0.7765595463137995
+Number of misclassified instances (train): 1182
+Number of misclassified instances (test): 591

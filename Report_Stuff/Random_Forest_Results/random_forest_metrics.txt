@@ -1,0 +1,9 @@
+Random Forest Classifier Metrics:
+Training Accuracy: 0.8713
+Training F1-Score: 0.7772
+Number of Misclassified Instances (Train): 1288
+Test Accuracy: 0.8202
+Test F1-Score: 0.6791
+Number of Misclassified Instances (Test): 863
+Misclassified Train Indices: [ 84 150 234 297]
+Misclassified Test Indices: [213 305 377 387]

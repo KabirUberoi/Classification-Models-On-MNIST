@@ -1,0 +1,9 @@
+AdaBoost Classifier Metrics:
+Training Accuracy: 0.9126
+Training F1-Score: 0.8200
+Number of Misclassified Instances (Train): 874
+Test Accuracy: 0.9006
+Test F1-Score: 0.7936
+Number of Misclassified Instances (Test): 477
+Misclassified Train Indices: [ 47 150 234 340]
+Misclassified Test Indices: [ 52  54 305 665]
